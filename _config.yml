@@ -1,0 +1,5 @@
+Ex: _config.yml file in your github 
+title: any title
+description: Coding practice 
+show_downloads: true google_analytics:
+theme: jekyll-theme-cayman
